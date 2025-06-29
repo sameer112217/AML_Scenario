@@ -1,0 +1,6 @@
+CUSTOMER_ID,CUSTOMER_NAME,PEP_FLAG,RISK_RATING
+P001,Ali Zayed,Y,High
+P002,Fatima Noor,Y,High
+P003,Hassan Khan,N,Medium
+P004,Maya Rizvi,N,Low
+P005,Omar Latif,Y,High
